@@ -1,0 +1,16 @@
+Uploading Projects, Folders and Files via github.com Web Interface
+==================================================================
+1. First, copy the current location in the address bar and open it in a new tab.
+2. Now that we've duplicated the browser tab (same URL)... 
+   it's time to start Uploading:
+3. Most of the time we can just drag and drop the selected files and folders and they'll be reucrsively uploaded.
+   However, in case we've selected a 100 (or more) we need to make a workaround since GitHub limits us to less than 100 each time.
+   This is also useful if we have an empty folder and GitHub refuses to upload/create it :
+   3.1 Press 'Create new file' and type the directory name exactly 'as is' and then type /
+       a folder will be created BUT we still have to create a file. 
+       So choose something like 'dummy' (or a shorter but _rememberable_ name).
+   3.2 Upload additonal files and folders (the limit will stiil be less than a 100).
+   3.3 Now and only now can be Delete the dummy file. 
+       NOTE: if we delete the file *before* adding or creating other files/folders 
+       then GitHub will notice we tried to trick it into creating an empty directory
+       and will immediately delete it too *NO questions_asked* !!!
