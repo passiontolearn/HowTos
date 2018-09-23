@@ -10,7 +10,7 @@ Uploading Projects, Folders and Files via github.com Web Interface
        a folder will be created BUT we still have to create a file. 
        So choose something like 'dummy' (or a shorter but _rememberable_ name).
    3.2 Upload additonal files and folders (the limit will still be less than a 100).
-   3.3 Now and only now can be Delete the dummy file. 
+   3.3 Now and only now can we Delete the dummy file. 
        NOTE: if we delete the file *before* adding or creating other files/folders 
        then GitHub will notice we tried to trick it into creating an empty directory
        and will immediately delete it too *NO questions_asked* !!!
